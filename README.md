@@ -1,6 +1,6 @@
 # Jiacheng Xu – Discount & Margin Dashboard
 
-**Live app:** [ADD YOUR STREAMLIT URL]  
+**Live app:** https://jiachengxu-dashboard.streamlit.app  
 **Files:** `app.py` (the dashboard), `eda.ipynb` (exploratory analysis), `order_data.csv` (data), `pyproject.toml` / `requirements.txt` (dependencies)
 
 ---
